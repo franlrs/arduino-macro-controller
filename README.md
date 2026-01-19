@@ -102,7 +102,7 @@ You can easily modify the code to trigger your own shortcuts or open different w
 Follow these steps strictly to avoid Serial Port conflicts.
 
 #### Step 1: Flash the Arduino
-1.  Open `Analog_Joystick.ino` in Arduino IDE.
+1.  Open `analog_joystick.ino` in Arduino IDE.
 2.  Connect your board via USB.
 3.  Select the correct Board and Port.
 4.  Click **Upload**.
